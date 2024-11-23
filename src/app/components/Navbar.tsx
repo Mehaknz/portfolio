@@ -11,7 +11,7 @@ const Navbar = () => {
   <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
     <a className="flex title-font font-medium items-center text-white mb-4 md:mb-0">
     <Image  src={require("../../../public/logo pic/logom.webp")} alt="logo pic" width={100} height={100}  />
-      <span className="ml-3 text-xl">Mehak's Portfolio</span>
+      <span className='ml-3 text-xl'>Mehak Portfolio</span>
     </a>
     <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center text-white">
       <Link href={"/"} className="mr-5 hover:text-[#ee8bd5]">Home</Link>

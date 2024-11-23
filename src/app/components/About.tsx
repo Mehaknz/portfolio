@@ -9,7 +9,7 @@ const About = () => {
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
     <Image
-        className="object-cover object-center rounded mx-auto w-[13rem]  "
+        className="object-cover object-center rounded mx-auto w-[15rem]  "
         alt="hero"
         width={300}
         height={500}

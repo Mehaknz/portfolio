@@ -11,7 +11,7 @@ const Hero = () => {
   <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
     <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h2 className=' title-font sm:text-4xl text-3xl mb-4 font-medium text-white'>Hello <br />
-      it's me Mehak Naz
+      its me Mehak Naz
       
       </h2>
       <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-[#ee8bd5]">
@@ -41,10 +41,10 @@ const Hero = () => {
     </div>
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
       <Image
-        className="object-cover object-center rounded mx-auto w-[14rem] "
+        className="object-cover object-center rounded mx-auto w-[15rem] "
         alt="hero"
-        width={100}
-        height={100}
+        width={300}
+        height={500}
         src={require("../../../public/logo pic/newpp.jpg")}
       />
     </div>

@@ -11,7 +11,7 @@ const Footer = () => {
     <Image  src={require("../../../public/logo pic/logom.webp")} alt="logo pic" width={100} height={100}  />
      
     </a>
-      <span className="ml-3 text-xl text-white">portfolio</span>
+      <span className="ml-3 text-xl">portfolio</span>
     </a>
     <p className="text-sm text-[#863a7b] sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
       © 2024 Mehak Naz —
